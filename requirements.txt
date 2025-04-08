@@ -1,0 +1,7 @@
+PySide6
+Pillow
+Requests
+xmltodict
+openpyxl
+pandas
+xlrd
